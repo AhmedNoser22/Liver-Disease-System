@@ -12,7 +12,9 @@
                     {
                         Version = "v1",
                         Title = "Liver Disease System",
-                        Description = "Liver Disease System",
+                        Description = "A System designed to manage, monitor," +
+                        " and track patients with liver diseases, providing tools for diagnosis," +
+                        " medical records, and treatment follow-up.",
                         Contact = new OpenApiContact
                         {
                             Name = "Ahmed Noser",
